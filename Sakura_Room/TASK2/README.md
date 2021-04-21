@@ -29,6 +29,8 @@ As we can see there is nothing interesting at first, but looking at it carefully
 
 As we know the usernames can be found in the `/home` directory.
 
+**FLAG 1 =  SakuraSnowAngelAiko**
+
 ------ 
 
 Then just for fun I converted the binary numbers to ASCII to see what it would say.
