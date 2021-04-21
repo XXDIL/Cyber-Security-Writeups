@@ -1,13 +1,13 @@
 ## TASK 2 : TIP-OFF
 
-GO ahead and download this program 
+Go ahead and download the file 
 
 ```console
 
 foo@bar:~$ wget 'https://raw.githubusercontent.com/OsintDojo/OsintDojo.github.io/d846483eb41dd4fdb6d00ac84ecdb4a66be6a191/TryHackMe/Sakura/sakurapwnedletter.svg'
 
 foo@bar:~$ ls
-    sakurapwnedletter.svg
+# sakurapwnedletter.svg
 
 ```
 
