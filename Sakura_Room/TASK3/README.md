@@ -4,13 +4,11 @@ So we need to scrape the internet for any trace of this `username : SakuraSnowAn
 
 clone the repo and run it on the username, we willget the following results.
 
-![img](https://user-images.githubusercontent.com/66634743/115616829-b57b8d00-a301-11eb-82ef-08fa761e9635.png)
+<img src="https://user-images.githubusercontent.com/66634743/115616829-b57b8d00-a301-11eb-82ef-08fa761e9635.png" width=700 height=100>
 
-The first 2 links were pointless but the github link contained some interesing repos.
+The first 2 links were pointless but the github link contained some interesing repos. After going through the low frequency repos (mainly because this is an easy CTF), these 3 repos caught my eye.
 
-After going through the low frequency repos (mainly because this is an easy CTF), these 3 repos caught my eye.
-
-![guthub_repos](https://user-images.githubusercontent.com/66634743/115617665-b9f47580-a302-11eb-8a90-5364f61bdb58.png)
+<img src="https://user-images.githubusercontent.com/66634743/115617665-b9f47580-a302-11eb-8a90-5364f61bdb58.png" width=700 height=300>
 
 
 
@@ -24,8 +22,14 @@ After a bit of searching, for how to get data from a pgp public key I found this
 foo@bas:~$ gpg --import key
 ```
 
-![pgp](https://user-images.githubusercontent.com/66634743/115619467-f3c67b80-a304-11eb-84bd-6190f4eb5431.png)
+![pgp](https://user-images.githubusercontent.com/66634743/115623151-de078500-a309-11eb-838f-2dbc0b27e198.png)
 
-And there, we go we just found the emailID 👍.
+And there we go, we just found the EmailID.
 
 ### What is the attacker's full real name?
+
+As sherlock didn't give us anymore links, I decided to search the net on my own and sure enough i found a `linkedin` page.
+
+![name](https://user-images.githubusercontent.com/66634743/115623145-db0c9480-a309-11eb-9ff3-d351a27fa20f.png)
+
+Now we have the Name too 👍.
