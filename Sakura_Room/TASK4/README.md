@@ -1,6 +1,6 @@
 # TASK 4 : UNVEIL
 
-I mean its fairly bvious that the the repo named ETH will be used for this section of the task as it has to do with crypto currency(Yes BitCoin is not the only cryptocurrency)
+I mean its fairly obvious that the the repo named ETH will be used for this section of the task as it has to do with crypto currency(Yes BitCoin is not the only cryptocurrency)
 
 In the ETH repo of the same github site we have the following file content: 
 `stratum://ethwallet.workerid:password@miningpool:port`
