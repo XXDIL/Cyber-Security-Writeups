@@ -20,7 +20,7 @@ foo@bar:~$ exiftool sakurapwnedletter.svg
 
 This will give the following output : 
 
-![exif](https://user-images.githubusercontent.com/66634743/115604105-0b483900-a2f2-11eb-94fd-b43fc0b076e0.png)
+![exiftool](https://user-images.githubusercontent.com/66634743/115623367-2757d480-a30a-11eb-9f7a-a88b1040f184.png)
 
 
 As we can see there is nothing interesting at first, but looking at it carefully we can see the following line:
