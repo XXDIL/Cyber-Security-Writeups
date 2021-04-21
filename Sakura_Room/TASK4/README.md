@@ -38,4 +38,4 @@ Imma be honest i didn't know what a Mining Pool was, after seeing this image I w
 
 ### 4) What other cryptocurrency did the attacker exchange with using their cryptocurrency wallet?
 
-For this i searched the [top 10 Crypto Currencies](https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/) and basically brute forced it 😅
+For this i searched the [top 10 Crypto Currencies](https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/) and basically brute forced it 😅. Give it a try.
