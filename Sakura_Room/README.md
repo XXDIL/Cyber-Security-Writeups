@@ -8,9 +8,9 @@ In this room the main thing to look out for are **minor details**. There have be
 ## Quick Nav:
 
 ### 1) [TASK 2](https://github.com/XXDIL/Try-Hack-Me/tree/main/Sakura_Room/TASK2)
-### 1) [TASK 3](https://github.com/XXDIL/Try-Hack-Me/tree/main/Sakura_Room/TASK3)
-### 1) [TASK 4](https://github.com/XXDIL/Try-Hack-Me/tree/main/Sakura_Room/TASK4)
-### 1) [TASK 5](https://github.com/XXDIL/Try-Hack-Me/tree/main/Sakura_Room/TASK5)
-### 1) [TASK 6](https://github.com/XXDIL/Try-Hack-Me/tree/main/Sakura_Room/TASK6)
+### 2) [TASK 3](https://github.com/XXDIL/Try-Hack-Me/tree/main/Sakura_Room/TASK3)
+### 3) [TASK 4](https://github.com/XXDIL/Try-Hack-Me/tree/main/Sakura_Room/TASK4)
+### 4) [TASK 5](https://github.com/XXDIL/Try-Hack-Me/tree/main/Sakura_Room/TASK5)
+### 5) [TASK 6](https://github.com/XXDIL/Try-Hack-Me/tree/main/Sakura_Room/TASK6)
 
 ### Happy Learning
