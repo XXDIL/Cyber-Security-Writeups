@@ -37,4 +37,16 @@ This means that all i have to change is the hash at the end of the url to get wh
 
 ### 3) What is the BSSID for the attacker's Home WiFi?
 
-<img src="https://user-images.githubusercontent.com/66634743/115866371-a05e4580-a44a-11eb-8b9d-e5a64f47744b.png" height=334 width=538>
+First you will need to understand that the text that I [REDACTED] is actually the SSID(name) of the Wifi. Then we basically need to find the BSSID given the SSID.
+
+I just searched [find BSSID for OSINT](https://osintcurio.us/2019/01/15/tracking-all-the-wifi-things/). Here they talk about useing [Wigle.net](https://wigle.net/).
+
+So after admiring the world map for some time i get back to work 😝. I enter the BSSID in Advance Search (Basic Search doesnt give any results).
+
+<img src="https://user-images.githubusercontent.com/66634743/115873058-8d9c3e80-a453-11eb-9799-5085ba7ace58.png" height=228 width=664>
+
+Here is what we need.
+
+<img src="https://user-images.githubusercontent.com/66634743/115873062-8f660200-a453-11eb-806d-15be1cc5d973.png" height=114 width=660>
+
+🥳🥳🥳
