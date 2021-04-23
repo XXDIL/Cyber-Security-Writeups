@@ -27,7 +27,8 @@ So she is in japan, now we need to find a place that looks like the one in the t
 
 | tweet | Google Maps |
 | - | - |
-| ![tweet](https://user-images.githubusercontent.com/66634743/115882914-49626b80-a45e-11eb-9edf-6df58c334125.jpeg) | <img src="https://user-images.githubusercontent.com/66634743/115881711-15d31180-a45d-11eb-8adb-2d7e764d2954.png" width=720 height=1135> |
+| ![tweet](https://user-images.githubusercontent.com/66634743/115882914-49626b80-a45e-11eb-9edf-6df58c334125.jpeg) | ![map](https://user-images.githubusercontent.com/66634743/115883850-4e73ea80-a45f-11eb-975c-11f681e7839a.png) |
+
 
 ### 4) What city does the attacker likely consider "home"?
 
