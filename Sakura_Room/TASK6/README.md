@@ -25,13 +25,19 @@ Now what all do we know:
 
 So she is in japan, now we need to find a place that looks like the one in the tweet near Heneda.
 
-| tweet | Google Maps |
+| Tweet Image | Google Maps |
 | - | - |
 | ![tweet](https://user-images.githubusercontent.com/66634743/115882914-49626b80-a45e-11eb-9edf-6df58c334125.jpeg) | ![map](https://user-images.githubusercontent.com/66634743/115883850-4e73ea80-a45f-11eb-975c-11f681e7839a.png) |
+
+We found a match! just zoom in more and the name should come up.
 
 
 ### 4) What city does the attacker likely consider "home"?
 
 <img src="https://user-images.githubusercontent.com/66634743/115866371-a05e4580-a44a-11eb-8b9d-e5a64f47744b.png" width=334 height=538>
 
-Just Querry the SSID of `HomeWifi`.
+Just Querry the BSSID of `HomeWifi` in wigle.net -> advanced search -> Wifi/Cell Details and that should open up a map.
+
+![home](https://user-images.githubusercontent.com/66634743/115885310-e58d7200-a460-11eb-9179-cbecd05ffc43.png)
+
+After this you will get an expandable map option just keep scrolling out till you start seeing some useful names and the ones that sound like they could be city names. 👍👍
