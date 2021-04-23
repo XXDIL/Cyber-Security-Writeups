@@ -12,7 +12,7 @@ The first 2 links were pointless but the github link contained some interesing r
 
 
 
-### What is the full email address used by the attacker?
+### 1) What is the full email address used by the attacker?
 
 We are given a pgp public key in the PGP repo, this is huge because when u think about PGP the first thing that should come to mind in email encryption.
 
@@ -26,7 +26,7 @@ foo@bas:~$ gpg --import key
 
 And there we go, we just found the EmailID.
 
-### What is the attacker's full real name?
+### 2) What is the attacker's full real name?
 
 As sherlock didn't give us anymore links, I decided to search the net on my own and sure enough i found a `linkedin` page.
 
