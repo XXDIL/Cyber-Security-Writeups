@@ -34,7 +34,9 @@ We found a match! just zoom in more and the name should come up.
 
 ### 4) What city does the attacker likely consider "home"?
 
-<img src="https://user-images.githubusercontent.com/66634743/115866371-a05e4580-a44a-11eb-8b9d-e5a64f47744b.png" width=334 height=538>
+Use the URL we got in TASK 5 Q2 on TOR to get the following:
+
+<img src="https://user-images.githubusercontent.com/66634743/115866371-a05e4580-a44a-11eb-8b9d-e5a64f47744b.png" height=334 width=538>
 
 Just Querry the BSSID of `HomeWifi` in wigle.net -> advanced search -> Wifi/Cell Details and that should open up a map.
 
