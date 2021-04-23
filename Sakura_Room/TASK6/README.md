@@ -1,15 +1,36 @@
 # TASK 6 : HOMEBOUND
 
-lol
-
-<img src="https://user-images.githubusercontent.com/66634743/115866371-a05e4580-a44a-11eb-8b9d-e5a64f47744b.png" height=334 width=538>
-
-lol
-
 ### 1) What airport is closest to the location the attacker shared a photo from prior to getting on their flight?
+
+<img src="https://user-images.githubusercontent.com/66634743/115879540-d277a380-a45a-11eb-9d8f-f0da9b50277c.jpeg" height=500 width=700>
+
+If you look closely at the background of the image you can see a structure that looks similar to the `Washington Monument`. Which is situated at... WASHINGTON!
+
+There are 3 main airport codes for Washington:
+- IAD
+- BWI
+- ?
 
 ### 2) What airport did the attacker have their last layover in?
 
+So here I searched for [JAL layoff sakura lounge](https://www.jal.co.jp/en/inter/service/lounge/). Turns out the main one is in `Heneda Airport`. You can find the Airport code your self 👍.
+
 ### 3) What lake can be seen in the map shared by the attacker as they were on their final flight home?
 
+I would recommend using Google Maps for this task.
+
+Now what all do we know:
+- She started her journey from Washington DC
+- Then a layoff at Heneda, Japan
+
+So she is in japan, now we need to find a place that looks like the one in the tweet near Heneda.
+
+| tweet | Google Maps |
+| - | - |
+| ![tweet](https://user-images.githubusercontent.com/66634743/115882914-49626b80-a45e-11eb-9edf-6df58c334125.jpeg) | <img src="https://user-images.githubusercontent.com/66634743/115881711-15d31180-a45d-11eb-8adb-2d7e764d2954.png" width=720 height=1135> |
+
 ### 4) What city does the attacker likely consider "home"?
+
+<img src="https://user-images.githubusercontent.com/66634743/115866371-a05e4580-a44a-11eb-8b9d-e5a64f47744b.png" width=334 height=538>
+
+Just Querry the SSID of `HomeWifi`.
