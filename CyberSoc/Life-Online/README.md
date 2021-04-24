@@ -1,6 +1,8 @@
 # Life Online
 
-Quick Nav : 
+This is a really interesting segment to this CTF as it has to do with the activities between a group of friends, who keep exposing each other 😆.
+
+## Quick Nav: 
 
 | Sno | Writeup Link |
 | - | :-: |
@@ -17,4 +19,6 @@ Quick Nav :
 | 11 | [partytime](https://github.com/XXDIL/Try-Hack-Me/blob/main/CyberSoc/Life-Online/partytime.md) |
 | 12 | [leaveamessage](https://github.com/XXDIL/Try-Hack-Me/blob/main/CyberSoc/Life-Online/leaveamessage.md) |
 
-_Hope this helped some of you_
+PS : im still working on `12 : leaveamessage`
+
+_Hope this helped some of you_.
