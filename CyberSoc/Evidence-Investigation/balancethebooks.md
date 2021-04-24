@@ -26,4 +26,6 @@ in the `Balance Sheet` section. I have circled the important things.
 
 As the question asks about the `CASH` the company has so we just look at the cash aspect of the balance sheet.
 
+I tried both the cash records😛.
+
 ### `ANSWER : 102.347`
