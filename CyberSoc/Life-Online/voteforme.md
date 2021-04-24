@@ -9,3 +9,6 @@ This tweet almost guarantees that he doesnt support the `Republicans`
 And this tween basically clears the confusion, `Democrats`
 
 <img src="https://user-images.githubusercontent.com/66634743/115953398-49b14400-a4fc-11eb-96b5-27ef88fe976d.png" height=368 width=473>
+
+
+### `ANS : Democrats`
