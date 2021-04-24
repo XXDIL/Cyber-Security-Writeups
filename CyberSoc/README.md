@@ -4,7 +4,8 @@
 
 Here is my result ATM
 
-![1st-Section](https://user-images.githubusercontent.com/66634743/115960950-41b9ca00-a525-11eb-8792-b3280ca1946d.png)
+![Screenshot from 2021-04-24 17-55-44](https://user-images.githubusercontent.com/66634743/115961193-5a76af80-a526-11eb-95b1-94021e37f8f2.png)
+
 
 If you want the answers visit : [Answers](https://github.com/XXDIL/Try-Hack-Me/tree/main/CyberSoc/Life-Online) (only if you are really stuck somewhere.)
 
