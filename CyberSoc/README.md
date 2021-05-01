@@ -1,5 +1,9 @@
 # CyberSoc
 
+Rank ATM : 
+
+![Screenshot from 2021-05-02 03-11-21](https://user-images.githubusercontent.com/66634743/116797200-1a01cd80-aaf4-11eb-982d-de5c059095b4.png)
+
 ## Life Online
 
 Here is my result ATM
