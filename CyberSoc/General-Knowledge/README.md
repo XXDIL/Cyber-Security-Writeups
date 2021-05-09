@@ -19,7 +19,7 @@ bleepbloop        -     Morse
 
 ```
 sluggsh           -     SlowLoris
-iknowyourname     -     wigle or Shodan (one of these, i was going too fast 😥)
+iknowyourname     -     wigle
 ```
 
 shodan.io is useful for IP related INT
