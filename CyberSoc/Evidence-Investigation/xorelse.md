@@ -1,6 +1,6 @@
 # Evidence Investigation - Challenge 15 (xorelse)
 
-I am pretty confortable with XOR's as i have done many projects related to it but if you are new all you need to know is that this is a simple `single byte XOR cipher`.
+I am pretty confortable with XOR's as i have done many projects related to it but if you are new, all you need to know is that this is a simple `single byte XOR cipher`.
 
 ### Example
 This means that each letter is XORed with a specific key, so if the cipher text was '5670' and the key was suppose 't' then we would do the following :
