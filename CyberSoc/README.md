@@ -2,25 +2,25 @@
 
 Rank ATM : 
 
-![Screenshot from 2021-05-02 03-11-21](https://user-images.githubusercontent.com/66634743/116797200-1a01cd80-aaf4-11eb-982d-de5c059095b4.png)
+![Complete](https://user-images.githubusercontent.com/66634743/117696909-e64d3480-b1d2-11eb-8ec9-0fd9f6b87266.png)
 
 ## Life Online
 
-Here is my result ATM
-
-![Screenshot from 2021-04-24 17-55-44](https://user-images.githubusercontent.com/66634743/115961193-5a76af80-a526-11eb-95b1-94021e37f8f2.png)
+![LO](https://user-images.githubusercontent.com/66634743/115961193-5a76af80-a526-11eb-95b1-94021e37f8f2.png)
 
 
 If you want the answers visit : [Answers](https://github.com/XXDIL/Try-Hack-Me/tree/main/CyberSoc/Life-Online) (only if you are really stuck somewhere.)
 
 ## Evidence Investigation
 
-### WIP
+![EI](https://user-images.githubusercontent.com/66634743/117696918-e9e0bb80-b1d2-11eb-99a8-a77b9d99c053.png)
+
+If you want the answers visit : [Answers](https://github.com/XXDIL/Try-Hack-Me/tree/main/CyberSoc/Evidence-Investigation) (only if you are really stuck somewhere.)
 
 ## General Knowledge:
 
 Here is my result:
 
-![3rd-Sections](https://user-images.githubusercontent.com/66634743/115960858-c35d2800-a524-11eb-8667-0d3df8f4e2b6.png)
+![GK](https://user-images.githubusercontent.com/66634743/115960858-c35d2800-a524-11eb-8667-0d3df8f4e2b6.png)
 
 If you want the answers visit : [Answers](https://github.com/XXDIL/Try-Hack-Me/tree/main/CyberSoc/General-Knowledge) (only if you are really stuck somewhere.)
